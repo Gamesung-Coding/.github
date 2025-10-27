@@ -1,7 +1,16 @@
-# 겜성 코딩
+<h1 align="center">
+	<p align="center">겜성 코딩</p>
+</h1>
 
-## Tech Stack
+### ABOUT
+---
+**"겜성코딩"** 팀은 **게임 콘텐츠 공학, 현대 미술, 정보 통신, 컴퓨터SW공학** 각기 다른 학문적 배경을 가진 5명의 풀스택 개발자로 구성되어 있습니다.
 
+팀 이름과 같이 '감성'과 '코딩'을 모두 중시하며, 기획, 디자인, 개발 등 각자의 뚜렷한 강점을 바탕으로 시너지를 발휘하는 팀입니다.
+
+
+### Tech Stack
+---
 <p align="center">
-  <img src="https://custom-skill-icons.netlify.app/icons?i=git,github,java,spring,vite,js,react,tailwind,redux,oracledb,eclipse,idea,vscode,postman,notion&perline=5" />
+  <img src="https://custom-skill-icons.netlify.app/icons?i=java,spring,js,vite,react,tailwind,redux,oracledb,git,github,notion,eclipse,idea,vscode,postman&perline=5" />
 </p>
