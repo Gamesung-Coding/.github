@@ -12,5 +12,7 @@
 ### Tech Stack
 ---
 <p align="center">
-  <img src="https://custom-skill-icons.netlify.app/icons?i=java,spring,springboot,hibernate,js,vite,react,tailwind,redux,oracledb,git,github,githubactions,notion,eclipse,idea,vscode,postman&perline=6" />
+  <a href="https://github.com/BlueNyang/custom-skill-icons">
+    <img src="https://custom-skill-icons.netlify.app/icons?i=java,spring,springboot,hibernate,js,vite,react,tailwind,redux,oracledb,git,github,githubactions,notion,eclipse,idea,vscode,postman&perline=6" />
+  </a>
 </p>
