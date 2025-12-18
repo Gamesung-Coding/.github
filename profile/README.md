@@ -33,6 +33,8 @@
 
 <b>[A11yMarket]</b>은 <b>Accessibility(접근성)</b>과 <b>Market(시장)</b>의 합성어로, **누구나 제약 없이 이용 가능한 중개 이커머스 플랫폼**입니다.
 
+- 직접 확인하기: <a href="https://a11ymarket.croffledev.kr" target="_blank">https://a11ymarket.croffledev.kr</a>
+
 ### 💡 Why A11yMarket? (Social Contribution)
 
 기존의 쇼핑몰은 스크린 리더 사용이나 색각 이상, 저시력 사용자를 위한 배려가 부족했습니다.
@@ -49,10 +51,10 @@
 |    Name    |                Role                | Responsibility                                              |                     GitHub                     |
 | :--------: | :--------------------------------: | :---------------------------------------------------------- | :--------------------------------------------: |
 | **안규태** |  **👑 팀장** <br/> PM & Architect  | 프로젝트 총괄 기획, 아키텍처 설계, PG 결제 기능, DevOps     |   [@BlueNyang](https://github.com/BlueNyang)   |
-| **김수민** | **🛠 팀원** <br/> DE & UI/UX Deisgn | 데이터 스키마 초기 설계, 접근성 기능 구현, UI/UX 디자인주도 |  [@Gravity251](https://github.com/Gravity251)  |
+| **김수민** | **🛠 팀원** <br/> DE & UI/UX Deisgn | 데이터 스키마 초기 설계, 접근성 기능 구현, UI/UX 설계 주도 |  [@Gravity251](https://github.com/Gravity251)  |
 | **백여랑** |   **🛠 팀원** <br/> API Developer   | API 엔드포인드 명세, API 설계, 설계된 API 구현              |     [@byrk205](https://github.com/byrk205)     |
 | **신운용** |   **🛠 팀원** <br/> API Developer   | 설계 및 명세된 API 구현, 프론트와의 API 연동                |  [@ShinUnYong](https://github.com/ShinUnYong)  |
-| **장지훈** |  **🛠 팀원** <br/> UI/UX Developer  |                                                             | [@dkdltmqna12](https://github.com/dkdltmqna12) |
+| **장지훈** |  **🛠 팀원** <br/> UI/UX Developer  | UI/UX 설계 및 개발, 설계된 API 구현                      | [@dkdltmqna12](https://github.com/dkdltmqna12) |
 
 ---
 
