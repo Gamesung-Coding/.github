@@ -24,7 +24,7 @@
   </a>
   <a href="https://github.com/gamesung-coding/a11y-market-server">
     <img src="https://img.shields.io/badge/Server-Spring_Boot_3.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  </a>
+  </a><br/>
   <a href="https://github.com/gamesung-coding/a11ymarket-resources">
     <img src="https://img.shields.io/badge/Docs-Project_Resources-FF9900?style=for-the-badge&logo=googledocs&logoColor=white" />
   </a>
