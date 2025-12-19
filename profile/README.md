@@ -78,6 +78,12 @@
 
 ---
 
+## 📑 Docs
+
+[문서 레포지토리](https://github.com/Gamesung-Coding/A11yMARKET-Resources)
+
+---
+
 ## 📧 Contact
 
 - **Organization:** [https://github.com/gamesung-coding](https://github.com/gamesung-coding)
