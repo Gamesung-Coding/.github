@@ -19,13 +19,13 @@
 
 <div align="center"><h3>"누구나 제약 없이 이용 가능한 배리어 프리(Barrier-Free) 이커머스"</h3>
   <br/>
-  <a href="https://github.com/gamesung-coding/a11y-market-web">
+  <a href="https://github.com/gscd-dev/a11y-market-web">
     <img src="https://img.shields.io/badge/Client-React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   </a>
-  <a href="https://github.com/gamesung-coding/a11y-market-server">
+  <a href="https://github.com/gscd-dev/a11y-market-server">
     <img src="https://img.shields.io/badge/Server-Spring_Boot_3.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   </a><br/>
-  <a href="https://github.com/gamesung-coding/a11ymarket-resources">
+  <a href="https://github.com/gscd-dev/a11ymarket-resources">
     <img src="https://img.shields.io/badge/Docs-Project_Resources-FF9900?style=for-the-badge&logo=googledocs&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/watch?v=SUjhHUoBB_Y" target="_blank">
@@ -101,5 +101,5 @@
 
 ## 📧 Contact
 
-- **Organization:** [https://github.com/gamesung-coding](https://github.com/gamesung-coding)
+- **Organization:** [GitHub(Gamesung-Coding)](https://github.com/gscd-dev)
 - **Email:** contact@bluenyang.kr
